@@ -1,8 +1,7 @@
 # React + Vite
 
-# todolist application 
-
-# can add, delete, search, edit the todolist
+todolist application 
+can add, delete, search, edit the todolist
 
 ![image](https://github.com/user-attachments/assets/f1be9ee5-7843-4fa2-b2c4-83f38db80c2d)
 
